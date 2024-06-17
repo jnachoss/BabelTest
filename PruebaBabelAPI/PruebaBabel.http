@@ -1,0 +1,6 @@
+@PruebaBabel_HostAddress = http://localhost:5037
+
+GET {{PruebaBabel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
